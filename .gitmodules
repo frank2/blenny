@@ -1,0 +1,3 @@
+[submodule "lib/facade"]
+	path = lib/facade
+	url = https://github.com/frank2/facade.git
